@@ -1,53 +1,56 @@
-# Power BI Project Showcase
+## Power BI Dashboard Project
 
-This repository features Power BI dashboards and reports developed throughout my Data Technician bootcamp.
+This project showcases a Power BI dashboard developed during a Data Technician bootcamp, focused on analysing retail sales performance and delivering clear, data-driven insights through interactive visualisations.
 
-## Repository Overview
+## Dashboard Overview
+
+<img width="1314" height="740" alt="image" src="https://github.com/user-attachments/assets/e93c8137-3409-4f7b-ac1a-36693ee8478e" />
 
 
+The dashboard provides a comprehensive view of sales and profit performance across multiple dimensions, including product categories, customer segments, geographic regions, and time. It is designed to support business decision-making by highlighting key trends and patterns within the data.
 
 ## Knowledge & Techniques
 
-Throughout these projects, I have gained experience with:
+Through the development of this dashboard, the following skills were applied:
 
-* Data preparation and cleansing
-* Power Query transformations
-* Relational data modelling
-* DAX measures and calculations
-* Dashboard development
-* Interactive report navigation
-* KPI monitoring and visual storytelling
-* Geographic and map-based reporting
-* Trend identification and performance evaluation
-* Business intelligence solutions
-* Deploying reports through Power BI Service
+- Creating interactive Power BI dashboards  
+- Designing visualisations to communicate business insights clearly  
+- Using segmentation to break down performance by customer type  
+- Analysing sales and profit metrics across categories and regions  
+- Building time-based trend analysis using line charts  
+- Implementing geographic visualisations using map visuals  
+- Applying filters and visuals to support exploratory analysis  
+- Structuring reports for clear storytelling and usability  
 
-## Featured Work
+## Dashboard Features
 
-### Sales Performance Report
+### Sales by Category and Segment
+- A stacked bar chart displaying total sales across key categories: Technology, Office Supplies, and Furniture  
+- Further segmented into Consumer, Corporate, and Home Office groups  
+- Allows comparison of how different customer segments contribute to category performance  
 
-Designed a report using a range of visual elements, including bar charts, line graphs, maps, scatter charts, and KPI indicators to examine sales activity and business trends.
+### Sales and Profit Trend Analysis
+- A dual-line chart showing the progression of total sales and total profit over multiple years  
+- Demonstrates growth trends and highlights the relationship between revenue and profitability over time  
 
+### Profit by Country
+- A geographic map visual illustrating profit distribution across countries  
+- Supports regional analysis and helps identify high-performing markets  
 
+### Top Countries by Sales
+- A visual highlighting the top-performing countries in terms of total sales  
+- Enables quick comparison of geographic performance  
 
-### Financial Insights Dashboard
+## Key Insights
 
-Created an interactive dashboard focused on financial performance, incorporating key metrics, geographical analysis, filtering capabilities, and trend monitoring.
+- Technology is the leading category in overall sales performance  
+- The Consumer segment consistently generates the highest revenue across categories  
+- Sales and profit show a clear upward trend across the observed years  
+- European countries play a significant role in overall profit generation  
+- Regional performance varies, highlighting opportunities for targeted business strategies  
 
+## About This Project
 
+This dashboard demonstrates the ability to transform raw sales data into a structured and interactive business intelligence solution. It highlights practical Power BI skills in data visualisation, trend analysis, and performance reporting.
 
-### Sales Analytics Dashboard
-
-Developed a multi-page report featuring:
-
-* Executive overview
-* Profitability insights
-* Performance measurement
-
-This dashboard incorporates interactive slicers, matrix visuals, KPI cards, and a variety of chart types to support data-driven decision-making.
-
-
-
-## About This Repository
-
-This repository serves as a record of my learning journey and professional development in Power BI. As I continue to expand my skills, I will regularly add new reports, dashboards, and analytics projects to showcase my progress and practical experience.
+The project reflects a strong understanding of how to present complex data in a clear and accessible format, enabling stakeholders to make informed, data-driven decisions.
